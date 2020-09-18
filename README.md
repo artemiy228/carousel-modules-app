@@ -20,4 +20,6 @@
 ```
 ----
 **Free modules - carousel**
-
+----
+<img src="https://github.com/artemiy228/carousel-modules-app/blob/master/photo-carousel-resoult/one-carousel-photo.JPG" width="300px" height="200px">
+<img src="https://github.com/artemiy228/carousel-modules-app/blob/master/photo-carousel-resoult/two-carousel-photo.JPG" width="300px" height="200px">
